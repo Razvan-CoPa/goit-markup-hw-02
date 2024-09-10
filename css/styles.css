@@ -1,0 +1,31 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-bar .menu {
+    font-weight: 500;
+    size: 16px;
+    line-height: 24px;
+}
+
+.filters .menu{
+    font-weight: 500;
+    size: 16px;
+    line-height: 24px;
+
+}
+.nav-bar {
+    width: 1440px;
+    height: 72px;
+    border: 1px;
+}
+
+ul li{
+    list-style-type: none;
+    display: flex;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
+
