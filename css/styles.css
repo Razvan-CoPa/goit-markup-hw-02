@@ -10,6 +10,7 @@ ul{
 }
 
 nav {
+    position: relative;
     display: flex;
     align-items: center;
     padding: 24px 156px;
@@ -100,7 +101,6 @@ button.all {
 
 }
 .nav-bar {
-    width: 1440px;
     height: 72px;
     border: 1px;
 }
